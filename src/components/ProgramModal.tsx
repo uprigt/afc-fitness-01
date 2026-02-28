@@ -6,7 +6,7 @@ import {
     DialogTitle,
 } from '@/components/ui/dialog';
 import { Button } from '@/components/ui/button';
-import { Calendar, CheckCircle2, X } from 'lucide-react';
+import { Calendar, CheckCircle2 } from 'lucide-react';
 import type { Program } from '@/sections/Programs';
 
 interface ProgramModalProps {
